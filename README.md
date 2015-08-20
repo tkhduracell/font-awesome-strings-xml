@@ -1,8 +1,13 @@
 # Font Awesome - strings.xml
 Android strings.xml for font-awesome (string -> code)
 
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+	Font Awesome 4.4.0 by @davegandy - http://fontawesome.io - @fontawesome
+	License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+-->
 <resources>
 	<string name="fa_500px">&#xf26e;</string>
 	<string name="fa_adjust">&#xf042;</string>
